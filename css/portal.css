@@ -41,7 +41,13 @@ p {
     font-size: large;
 }
 
-h2,h3 {
+li {
+    margin: 1em; /* Top Right Bottom Left (TRBL) */
+    color: white;
+    font-size: large;
+}
+
+h2,h3, h5 {
     font-weight: normal;
     margin-left: 1em;
     line-height: 1em;
